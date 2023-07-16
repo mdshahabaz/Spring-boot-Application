@@ -1,0 +1,4 @@
+com\example\Springboot\tutorial\Controller\DepartmentControllerTest.class
+com\example\Springboot\tutorial\SpringBootTutorialApplicationTests.class
+com\example\Springboot\tutorial\repository\DepartmentRepositoryTest.class
+com\example\Springboot\tutorial\service\DepartmentServiceTest.class
